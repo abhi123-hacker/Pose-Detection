@@ -1,9 +1,9 @@
 # Pose-Detection using OpenCV
 Created by:
-          Dr. G. R. KANAGACHIDAMBARESAN
-          Abhishek Raj
-          Manoj Kumar
-          Vikram Kunar Jha
+          Dr. G. R. KANAGACHIDAMBARESAN,
+          Abhishek Raj,
+          Manoj Kumar,
+          Vikram Kumar Jha
 
 1.Run the code
 2.It will give 5 sec to adjust yourself infront of camera
